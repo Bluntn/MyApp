@@ -1,0 +1,14 @@
+/Users/noahblunt/MyApp/bin/Debug/net7.0/MyApp
+/Users/noahblunt/MyApp/bin/Debug/net7.0/MyApp.deps.json
+/Users/noahblunt/MyApp/bin/Debug/net7.0/MyApp.runtimeconfig.json
+/Users/noahblunt/MyApp/bin/Debug/net7.0/MyApp.dll
+/Users/noahblunt/MyApp/bin/Debug/net7.0/MyApp.pdb
+/Users/noahblunt/MyApp/obj/Debug/net7.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/noahblunt/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfoInputs.cache
+/Users/noahblunt/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfo.cs
+/Users/noahblunt/MyApp/obj/Debug/net7.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/noahblunt/MyApp/obj/Debug/net7.0/MyApp.dll
+/Users/noahblunt/MyApp/obj/Debug/net7.0/refint/MyApp.dll
+/Users/noahblunt/MyApp/obj/Debug/net7.0/MyApp.pdb
+/Users/noahblunt/MyApp/obj/Debug/net7.0/MyApp.genruntimeconfig.cache
+/Users/noahblunt/MyApp/obj/Debug/net7.0/ref/MyApp.dll
